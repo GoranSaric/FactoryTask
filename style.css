@@ -35,7 +35,7 @@ input[type=submit] {
 #div-news {
 	margin: 20px auto;
 	width: 100%;
-	position: absolute;
+	position: relative;
 	background: #f7f6f6;
 	height: 500px;
 	max-width: 1000px;
